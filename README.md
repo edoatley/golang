@@ -8,6 +8,7 @@ This is a repository to have a little play with GoLang
 - [Learn Golang in 7 hours (FreeCodecamp channel Youtube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Golang Crash Course (Traversy Media Youtube)](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 - [Github go training](https://github.com/go-training/training)
+- [Building An Awesome CLI App In Go](https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/)
 
 ## Notes
 
@@ -18,3 +19,10 @@ brew install go
 ```
 
 ### 01 - Hello World
+
+Learnt about `gofmt` to autoformat code which can be used like this:
+
+```shell
+gofmt -w .
+```
+
